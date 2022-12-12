@@ -1,1 +1,1 @@
-sudo pacman -S zsh bspwm nvim alacritty firefox xorg xorg-xinit sxhkd rofi picom alacritty numlockx lxsession ranger
+sudo pacman -S zsh bspwm neovim alacritty firefox xorg xorg-xinit sxhkd rofi picom alacritty numlockx lxsession ranger
