@@ -1,1 +1,1 @@
-All the files need for me to setup a arch install with my rice.
+All the files need for me to setup an arch install with my rice.
